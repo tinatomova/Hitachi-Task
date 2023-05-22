@@ -9,7 +9,7 @@ The "Day" class contains information about a single day.
 
 ### Class "Data"
 
-The "Data" class contains information about the days from the table. The main functionalities include importing information from a file, exporting to a file, and sending an email (the email sending function is commented out as it requires additional IDE configuration to work with an external library - <curl>).
+The "Data" class contains information about the days from the table. The main functionalities include importing information from a file, exporting to a file, and sending an email (the email sending function is commented out as it requires additional IDE configuration to work with an external library - curl).
 
 ### main.cpp
 

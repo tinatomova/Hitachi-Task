@@ -3,13 +3,6 @@
 ## Weather conditions for SPACE shuttle launch
 This is a console application for importing weather forecast data from a CSV file, generating a weather report, and sending it via email. 
 
-### Prerequisites
-
-To build and run this application, you need the following prerequisites:
-
-* C++ compiler that supports C++11 or higher
-* libcurl library
-
 ### Class "Day"
 
 The "Day" class contains information about a single day.
@@ -21,3 +14,11 @@ The "Data" class contains information about the days from the table. The main fu
 ### main.cpp
 
 The main.cpp file contains the main thread of the program. It is responsible for starting the program and executing the core logic.
+  
+
+### Prerequisites
+
+To build and run this application, you need the following prerequisites:
+
+* C++ compiler that supports C++11 or higher
+* libcurl library
